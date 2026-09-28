@@ -1,0 +1,6 @@
+pyproject.toml
+btc_perp_system.egg-info/PKG-INFO
+btc_perp_system.egg-info/SOURCES.txt
+btc_perp_system.egg-info/dependency_links.txt
+btc_perp_system.egg-info/requires.txt
+btc_perp_system.egg-info/top_level.txt

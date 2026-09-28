@@ -1,0 +1,11 @@
+environment:
+  mode: paper
+
+data:
+  source: exchange
+
+execution:
+  simulate: true
+
+account:
+  initial_equity: 100000

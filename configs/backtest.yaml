@@ -1,0 +1,12 @@
+environment:
+  mode: backtest
+
+backtest:
+  start: "2022-01-01"
+  end: "2026-01-01"
+
+  initial_equity: 100000
+
+data:
+  source: local
+  path: data/processed/btcusdt_4h.parquet
